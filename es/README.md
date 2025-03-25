@@ -5,7 +5,7 @@ Disponible en: [English](https://github.com/afshinea/stanford-cme-295-transforme
 Este repositorio tiene como objetivo resumir en un solo lugar todas las nociones importantes que se cubren en el curso de CME 295 Transformers & Large Language Models de Stanford. Incluye:
 - **Transformers**: auto-atención, arquitectura, variantes, técnicas de optimización (atención dispersa, atención de bajo rango, atención flash)
 - **LLMs**: prompting, ajuste fino (SFT, LoRA), ajuste de preferencias, técnicas de optimización (mezcla de expertos, destilación, cuantización)
-- **Applications**: LLM como juez, RAG, agentes, modelos de razonamiento (escalado en tiempo de entrenamiento y en tiempo de prueba de DeepSeek-R1)
+- **Aplicaciones**: LLM como juez, RAG, agentes, modelos de razonamiento (escalado en tiempo de entrenamiento y en tiempo de prueba de DeepSeek-R1)
 
 ## Contenido
 ### VIP Cheatsheet
