@@ -1,5 +1,5 @@
 # Guía del curso sobre Transformers y Grandes Modelos de Lenguaje para el curso CME 295 de Stanford
-Disponible en: [English](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/en) -  **Español**
+Disponible en: [English](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/en) - **Español** - [Français](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/fr)
 
 ## Objetivo
 Este repositorio tiene como objetivo resumir en un solo lugar todas las nociones importantes que se cubren en el curso de CME 295 Transformers & Large Language Models de Stanford. Incluye:
