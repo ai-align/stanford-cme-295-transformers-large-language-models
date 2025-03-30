@@ -1,5 +1,5 @@
 # Guía del curso sobre Transformers y Grandes Modelos de Lenguaje para el curso CME 295 de Stanford
-Disponible en: [English](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/en) - **Español** - [Français](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/fr)
+Disponible en: [English](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/en) - **Español** - [Français](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/fr) - [日本語](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/ja)
 
 ## Objetivo
 Este repositorio tiene como objetivo resumir en un solo lugar todas las nociones importantes que se cubren en el curso de CME 295 Transformers & Large Language Models de Stanford. Incluye:
@@ -12,7 +12,7 @@ Este repositorio tiene como objetivo resumir en un solo lugar todas las nociones
 <a href="https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/blob/main/es/cheatsheet-transformers-large-language-models.pdf"><img src="https://cme295.stanford.edu/cheatsheet-es.png" alt="Illustration" width="600px"/></a>
 
 ## Libro de texto
-Esta VIP cheatsheet ofrece un resumen del contenido del libro "Super Study Guide: Transformers & Large Language Models”, que incluye ~600 ilustraciones a lo largo de 250 páginas y profundiza en los siguientes conceptos. Puedes encontrar más detalles en https://superstudy.guide.
+Esta VIP cheatsheet ofrece un resumen del contenido del libro "Super Study Guide: Transformers & Large Language Models”, que incluye ~600 ilustraciones a lo largo de 250 páginas. Puedes encontrar más detalles en https://superstudy.guide.
 
 ## Sitio web de la clase
 [cme295.stanford.edu](https://cme295.stanford.edu/)

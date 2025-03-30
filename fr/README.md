@@ -1,5 +1,5 @@
 # Pense-bête de Transformeurs et LLMs pour CME 295 de Stanford
-Disponible en [English](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/en) - [Español](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/es) - **Français**
+Disponible en [English](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/en) - [Español](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/es) - **Français** - [日本語](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/ja)
 
 ## But
 Ce repo a pour but de résumer toutes les notions importantes du cours de Transformeurs et LLMs (CME 295) de Stanford. En particulier, il inclut :
@@ -12,7 +12,7 @@ Ce repo a pour but de résumer toutes les notions importantes du cours de Transf
 <a href="https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/blob/main/fr/cheatsheet-transformers-large-language-models.pdf"><img src="https://cme295.stanford.edu/cheatsheet-fr.png" alt="Illustration" width="600px"/></a>
 
 ## Manuel scolaire
-Cette VIP cheatsheet donne un aperçu du contenu du livre intitulé « Super Study Guide : Transformeurs et Grands Modèles de Langage », qui contient environ 600 illustrations réparties sur 250 pages et explore en profondeur les concepts abordés ici. Pour plus d'information, veuillez visiter : https://superstudy.guide.
+Cette VIP cheatsheet donne un aperçu du contenu du livre intitulé « Super Study Guide : Transformeurs et Grands Modèles de Langage », qui contient environ 600 illustrations réparties sur 250 pages. Pour plus d'information, veuillez visiter : https://superstudy.guide.
 
 ## Site du cours
 [cme295.stanford.edu](https://cme295.stanford.edu/)
