@@ -1,5 +1,5 @@
 # スタンフォード大学 CME 295「Transformer と大規模言語モデル」のチートシート
-対応言語：[English](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/en) - [Español](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/es) - [Français](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/fr) - **日本語**
+対応言語：[English](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/en) - [Español](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/es) - [Français](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/fr) - [Türkçe](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/tree/main/tr) - **日本語**
 
 ## 目的
 このリポジトリは、スタンフォード大学 CME 295「Transformer と大規模言語モデル」で扱う重要概念を一箇所にまとめることを目的としています。内容は以下のとおりです。
@@ -12,7 +12,7 @@
 <a href="https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/blob/main/ja/cheatsheet-transformers-large-language-models.pdf"><img src="https://cme295.stanford.edu/cheatsheet-ja.png" alt="Illustration" width="600px"/></a>
 
 ## 講義テキスト
-この VIP Cheatsheet は、『Super Study Guide: Transformer と大規模言語モデル』という書籍の概要です。この書籍では、250 ページにわたって約 600 点のイラストを用い、以下の概念を詳細に解説しています。詳細は https://superstudy.guide をご覧ください。
+この VIP Cheatsheet は、『Super Study Guide: Transformer と大規模言語モデル』という書籍の概要です。この書籍には、250 ページにわたって約 600 点の図が含まれています。詳細は https://superstudy.guide をご覧ください。
 
 ## 講義ウェブサイト
 [cme295.stanford.edu](https://cme295.stanford.edu/)
