@@ -21,4 +21,4 @@ Bu VIP Özet Rehberi, 250 sayfadan oluşan ve yaklaşık 600 resim içeren "Supe
 [Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) ve [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford Üniversitesi)
 
 ## Çevirmen
-Merve Ayyüce Kızrak (Bahçeşehir Üniversitesi, YZ Mühendisliği Bölümü)
+[Merve Ayyüce Kızrak](https://www.linkedin.com/in/merve-ayyuce-kizrak/) (Bahçeşehir Üniversitesi, YZ Mühendisliği Bölümü)
