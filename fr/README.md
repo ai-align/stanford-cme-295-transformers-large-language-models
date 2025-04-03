@@ -18,4 +18,4 @@ Cette VIP cheatsheet donne un aperçu du contenu du livre intitulé « Super Stu
 [cme295.stanford.edu](https://cme295.stanford.edu/)
 
 ## Auteurs
-[Afshine Amidi](https://twitter.com/afshinea) (École Centrale Paris, MIT) et [Shervine Amidi](https://twitter.com/shervinea) (École Centrale Paris, Université de Stanford)
+[Afshine Amidi](https://www.linkedin.com/in/afshineamidi/) (École Centrale Paris, MIT) et [Shervine Amidi](https://www.linkedin.com/in/shervineamidi/) (École Centrale Paris, Université de Stanford)
