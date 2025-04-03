@@ -18,9 +18,9 @@
 [cme295.stanford.edu](https://cme295.stanford.edu/)
 
 ## 著者
-[アフシン・アミディ](https://twitter.com/afshinea)（パリ中央工科大学、MIT）
+[アフシン・アミディ](https://www.linkedin.com/in/afshineamidi/)（パリ中央工科大学、MIT）
 
-[シェルビン・アミディ](https://twitter.com/shervinea)（パリ中央工科大学、スタンフォード大学）
+[シェルビン・アミディ](https://www.linkedin.com/in/shervineamidi/)（パリ中央工科大学、スタンフォード大学）
 
 ## 訳者
 中井 喜之
