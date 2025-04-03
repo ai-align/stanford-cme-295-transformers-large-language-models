@@ -18,7 +18,7 @@ Esta VIP cheatsheet ofrece un resumen del contenido del libro "Super Study Guide
 [cme295.stanford.edu](https://cme295.stanford.edu/)
 
 ## Autores
-[Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) y [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)
+[Afshine Amidi](https://www.linkedin.com/in/afshineamidi/) (Ecole Centrale Paris, MIT) y [Shervine Amidi](https://www.linkedin.com/in/shervineamidi/) (Ecole Centrale Paris, Stanford University)
 
 ## Traductores
 Steven Van Vaerenbergh (Universidad de Cantabria) y Lara Lloret Iglesias (Instituto de Física de Cantabria - CSIC/UC)
