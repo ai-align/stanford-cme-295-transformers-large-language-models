@@ -12,7 +12,7 @@
 <a href="https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/blob/main/zh/cheatsheet-transformers-large-language-models.pdf"><img src="https://cme295.stanford.edu/cheatsheet-zh.png" alt="Illustration" width="600px"/></a>
 
 ## 课程教材
-这份 VIP 速查表概述了《Super Study Guide: Transformer 与大语言模型》一书的核心内容。该书包含约 600 幅插图，全书超过 250 页。更多详情请访问：https://superstudy.guide。
+这份 VIP 速查表概述了《Super Study Guide: Transformer 与大语言模型》一书的核心内容。该书包含约 600 幅插图，全书超过 250 页。更多详情请访问：https://superstudy.guide
 
 ## 课程网站
 [cme295.stanford.edu](https://cme295.stanford.edu/)
